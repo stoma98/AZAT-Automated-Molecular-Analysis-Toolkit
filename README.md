@@ -56,8 +56,8 @@ python azat.py
 ```
 ## Authors
 
- Mariia Y. Stoliarskaia  
- Institute of Protein Research (RAS)
+- **Mariia Y. Stoliarskaia** — Institute of Protein Research (RAS)
+- **Oleg S. Nikonov** — Institute of Protein Research (RAS)
 
 ## License
 This project is licensed under the MIT License.
