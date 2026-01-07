@@ -37,7 +37,7 @@ conda activate azat
  For the application to launch and function properly, all module files and the application icon must be placed in the same working directory. Your project folder should look like this:
 ```
 your-project-folder/
-├── azat.py  # Main application script
+├── azat.py                 # Main application script
 ├── medchem.py              # Medicinal chemistry module
 ├── ph4.py                  # Pharmacophore module
 ├── prototaut.py            # Protonation & Tautomer module
@@ -52,7 +52,7 @@ your-project-folder/
 Run the main script to start the toolkit:
 
 ```bash
-python fixed_azat_app_beta2.py
+python azat.py
 ```
 ## Authors
 
